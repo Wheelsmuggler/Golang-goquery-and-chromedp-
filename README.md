@@ -1,4 +1,4 @@
-# Golang-
+# Golang 爬虫
 使用goquery 和 chromedp 爬取知乎大v 想法以及下面的热评,共爬取50个页面,每个页面十条想法,共计500条,存入本地mongodb数据库中
 
 ####1
